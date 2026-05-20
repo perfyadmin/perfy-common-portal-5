@@ -1,0 +1,3 @@
+UPDATE public.partners SET photo_url = 'https://vpdlswycvmqdcqwkzppv.supabase.co/storage/v1/object/public/partner-photos/vinoth.jpg' WHERE name = 'Vinoth';
+UPDATE public.partners SET photo_url = 'https://vpdlswycvmqdcqwkzppv.supabase.co/storage/v1/object/public/partner-photos/rajan.png' WHERE name = 'C. Rajan';
+UPDATE public.partners SET photo_url = 'https://vpdlswycvmqdcqwkzppv.supabase.co/storage/v1/object/public/partner-photos/maharajan.jpg' WHERE name = 'MS Digitech Maharajan';

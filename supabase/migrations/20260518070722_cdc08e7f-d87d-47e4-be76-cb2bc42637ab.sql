@@ -1,0 +1,2 @@
+UPDATE public.partners SET photo_url = 'https://vpdlswycvmqdcqwkzppv.supabase.co/storage/v1/object/public/partner-photos/prem.png?v=2' WHERE id = '6de93d85-9e4c-45c1-ae30-6d6d3a265e2c';
+UPDATE public.partners SET photo_url = 'https://vpdlswycvmqdcqwkzppv.supabase.co/storage/v1/object/public/partner-photos/rathinasamy.jpg?v=2' WHERE id = '0ec34594-623f-4c77-88b2-38a30719326a';
